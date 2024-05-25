@@ -1,6 +1,6 @@
 # CSE 12 Spring 2024 PA8 - BST and Sorting
 
-Due date: Thursday, May 30th @ 11:59 PM PT
+Due date: Tuesday, June 4th @ 11:59 PM PT
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
@@ -295,7 +295,7 @@ As you know from class, if you double the size of the input data that you give t
 
 ## Submission
 
-Submit all of the following files to Gradescope by **Thursday, May 30th @ 11:59 PM PT.**
+Submit all of the following files to Gradescope by **Tuesday, June 4th @ 11:59 PM PT.**
 
 * `MyBST.java`				
 * `CustomTester.java`
